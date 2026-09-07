@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
