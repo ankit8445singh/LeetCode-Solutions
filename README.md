@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1051-height-checker](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
