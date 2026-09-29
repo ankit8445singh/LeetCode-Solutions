@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
