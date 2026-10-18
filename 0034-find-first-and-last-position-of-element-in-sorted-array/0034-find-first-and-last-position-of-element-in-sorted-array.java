@@ -33,7 +33,7 @@ class Solution {
                 right = mid - 1;
             } else {
                 last = mid;
-                left = mid + 1; // keep searching right
+                left = mid + 1; 
             }
         }
         return last;
