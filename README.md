@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
