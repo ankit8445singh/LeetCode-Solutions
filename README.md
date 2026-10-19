@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -229,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
