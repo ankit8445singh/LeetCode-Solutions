@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ankit8445singh/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
